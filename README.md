@@ -1,7 +1,7 @@
 ## RuchithaBoard
 
 
-RuchithaBoard is a fully custom 60% mechanical keyboard designed from scratch using EasyEDA Pro for the PCB and Fusion 360 for the case. Built for both functionality and flair, it combines a clean layout, hot-swap support, OLED display integration, and full compatibility with QMK firmware all packed into a compact, 3D-printable design.
+RuchithaBoard is a fully custom 60% mechanical keyboard designed from scratch using EasyEDA Pro for the PCB and Fusion 360 for the case. Built for both functionality and flair, it combines a clean layout, OLED display integration, and full compatibility with QMK firmware all packed into a compact, 3D-printable design.
 
 <img width="1132" height="486" alt="Screenshot 2025-07-31 152401" src="https://github.com/user-attachments/assets/4e664880-eb9d-4c8d-8cac-15a992dd702c" />
 
