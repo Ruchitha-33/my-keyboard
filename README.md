@@ -27,3 +27,18 @@ The keymap was built using the QMK Configurator and exported for future flashing
 This is my first fully designed mechanical keyboard from schematic to switch placement, every bit was customized. RuchithaBoard isn’t just a board; it’s a personal tech/art project that reflects the way I learn, tinker, and design stuff I want to use.
 
 ## BOM
+
+| Component                 | Description                          | Qty | Unit Price (USD) | Unit Price (INR) | Store               |
+| ------------------------- | ------------------------------------ | --- |---------------- | ---------------- | ------------------- | 
+| **PCB Prototype (Black)** | 1.6mm, HASL with lead finish         | 5   | $13.70          | ₹1140            | JLCPCB              | 
+| **Shipping (JLCPCB)**     | International to India               | 1   | $21.13          | ₹1757            | JLCPCB              | 
+| **Pro Micro (Clone)**     | Micro USB controller board           | 1   | $7.00           | ₹580             | Amazon.in           | 
+| **Gateron Blue Switches** | Clicky tactile mechanical switches   | 70  | $18.00          | ₹1500            | CosmicByte.in       | 
+| **SMD Diodes (1N4148WS)** | 0805 package                         | 70  | $1.50           | ₹130             | ShaarviElectronics  | 
+| **OLED Display (0.91")**  | SSD1306, I2C                         | 1   | $3.50           | ₹300             | Amazon.in           | 
+| **Keycaps (PBT Blank)**   | For 65% layout                       | 1   | $20.00          | ₹1700            | NeoMacro.in         | 
+| **Soldering + Misc**      | Wires, flux, solder                  | —   | $6.00           | ₹510             | —                   | 
+| **Case**                  | 3D Printed (Self-designed in Fusion) | 1   | —                | —                | —                   | 
+
+
+## Total Estimated Cost: $90.83 / ₹8,117
