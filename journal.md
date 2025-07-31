@@ -1,5 +1,5 @@
 |                   |                                                       |
-|------------------|-------------------------------------------------------------------------|
+|------------------ |-------------------------------------------------------------------------|
 | **Project Name**  | RuchithaBoard                                                           |
 | **Author**        |Ruchitha                                                                |
 | **Description**   | A self-designed 60% custom mechanical keyboard featuring SMD diodes, a Pro Micro clone, Gateron Blue switches, and an OLED display. The PCB and layout were designed in EasyEDA Pro, while the case was modeled in Fusion 360. The board is waiting for approval from Hackclub Highway and has not yet been printed or fabricated. |
