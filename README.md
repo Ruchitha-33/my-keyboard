@@ -42,3 +42,11 @@ This is my first fully designed mechanical keyboard from schematic to switch pla
 
 
 ## Total Estimated Cost: $90.83 / ₹8,117
+
+
+
+<img width="1859" height="689" alt="Screenshot 2025-07-31 154333" src="https://github.com/user-attachments/assets/9ca23f8a-0478-4552-97b7-c96a35e65b0c" />
+
+
+
+
