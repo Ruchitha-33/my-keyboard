@@ -1,3 +1,14 @@
+|                   |                                                       |
+|------------------|-------------------------------------------------------------------------|
+| **Project Name**  | RuchithaBoard                                                           |
+| **Author**        |Ruchitha                                                                |
+| **Description**   | A self-designed 60% custom mechanical keyboard featuring SMD diodes, a Pro Micro clone, Gateron Blue switches, and an OLED display. The PCB and layout were designed in EasyEDA Pro, while the case was modeled in Fusion 360. The board is waiting for approval from Hackclub Highway and has not yet been printed or fabricated. |
+| **Case**          | Self-designed and modeled in Fusion 360 (not yet 3D printed)            |
+| **Total Cost**    | $90.83 / ₹8,117 (approximate)                                           |
+| **Total Time Spent** | 24 hours                                                            |
+
+
+
 ## July 27 — Schematic Day (5 hours)
 The idea came out of nowhere, honestly. I just wanted to make something clean, simple and personal. I opened up EasyEDA Pro, created a new project, and started placing the switches manually for a 60 percent layout. I didn’t use templates or copied matrix blocks. I wanted to build every key, every column by hand. It took time but felt so much more satisfying.I spent a good amount of time laying out the switch matrix with five rows and fourteen columns. I matched each column to GPIO pins on the Pro Micro clone, and reserved D2 and D3 for the OLED lines. Every diode was added as an SMD footprint and aligned neatly. I got a bit too obsessed with the symmetry, but I didn’t care  this was my board.By the time I was done with the schematic, the net labels, and double-checking everything, the whole circuit looked confident and clean. I exported the netlist, saved everything with a weirdly proud smile, and closed it for the night.
 
