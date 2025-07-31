@@ -29,7 +29,7 @@ The design didn’t follow any tray mount style. I was just figuring it out as I
 <img width="958" height="605" alt="image" src="https://github.com/user-attachments/assets/b4a4af42-0a7d-438a-a760-cd71f9faf5cc" />
 
 
-July 30 — Assembly Planning and Part Checks (6 hours)
+## July 30 — Assembly Planning and Part Checks (6 hours)
 This day was a mix of inventory check and mentally preparing for how the soldering would go once the PCB arrives. I laid out all my components on the desk  switches, SMD diodes, OLED display, header pins, Pro Micro. I don’t have hot-swap sockets for this board, and I didn’t want to use any either. I wanted this to be a proper soldered board  permanent and intentional.I did a dry run with switch alignment using an old PCB just to see how the footprint spacing felt. Looked good. I also used a multimeter to pre-test the OLED header connections on my Pro Micro clone. It’s a small thing but gives peace of mind.
 I didn’t do any actual building or printing today, just prep. I saved the QMK JSON layout and decided I’d build the firmware tomorrow, even if the PCB isn’t ordered yet.
 
