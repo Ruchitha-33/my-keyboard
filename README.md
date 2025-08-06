@@ -26,6 +26,17 @@ The keymap was built using the QMK Configurator and exported for future flashing
 
 This is my first fully designed mechanical keyboard from schematic to switch placement, every bit was customized. RuchithaBoard isn’t just a board; it’s a personal tech/art project that reflects the way I learn, tinker, and design stuff I want to use.
 
+
+## updated case design
+
+Im a beginner so didnt get time to make it more asethetic but i tried my best making the case
+<img width="623" height="460" alt="image" src="https://github.com/user-attachments/assets/0ffd44ca-7ad8-4c0f-8bec-16fa1d1834d9" />
+
+<img width="790" height="391" alt="Screenshot 2025-08-06 114419" src="https://github.com/user-attachments/assets/a84d79bd-86dd-404e-a282-7edcf4a8f42a" />
+<img width="1224" height="682" alt="Screenshot 2025-08-06 114400" src="https://github.com/user-attachments/assets/684e52f1-2128-49d7-a434-961779468add" />
+
+
+
 ## BOM
 
 | Component                 | Description                          | Qty | Unit Price (USD) | Unit Price (INR) | Store               |
