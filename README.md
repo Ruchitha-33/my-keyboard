@@ -15,6 +15,19 @@ The PCB layout was crafted with a hand-routed matrix and carefully labeled trace
 <img width="919" height="501" alt="image" src="https://github.com/user-attachments/assets/78a7c7fe-d75d-43cb-898a-f396cf022fc0" />
 
 
+
+## updated case design
+
+
+
+<img width="1000" height="461" alt="Screenshot 2025-08-15 020723" src="https://github.com/user-attachments/assets/55d05fcd-3ec5-4740-b9ff-feb770b514a6" />
+<img width="1121" height="506" alt="Screenshot 2025-08-15 020717" src="https://github.com/user-attachments/assets/e823e373-dba6-45f8-b899-b4e18a1deae2" />
+
+<img width="863" height="454" alt="image" src="https://github.com/user-attachments/assets/35a71b08-ee31-4472-be7e-3a77db8aa6f2" />
+
+
+
+
 The case was modeled entirely in Fusion 360 as a snug two-piece shell. It includes cutouts for the USB port and OLED, and fits together without screws. The design was iterated with both black and white themes in mind, allowing flexibility in print material and keycap choices.
 <img width="960" height="494" alt="Screenshot 2025-07-31 153813" src="https://github.com/user-attachments/assets/487b8344-8ea7-4873-a7a1-6e7cd3205653" />
 
@@ -26,14 +39,6 @@ The keymap was built using the QMK Configurator and exported for future flashing
 
 This is my first fully designed mechanical keyboard from schematic to switch placement, every bit was customized. RuchithaBoard isn’t just a board; it’s a personal tech/art project that reflects the way I learn, tinker, and design stuff I want to use.
 
-
-## updated case design
-
-Im a beginner so didnt get time to make it more asethetic but i tried my best making the case
-<img width="623" height="460" alt="image" src="https://github.com/user-attachments/assets/0ffd44ca-7ad8-4c0f-8bec-16fa1d1834d9" />
-
-<img width="790" height="391" alt="Screenshot 2025-08-06 114419" src="https://github.com/user-attachments/assets/a84d79bd-86dd-404e-a282-7edcf4a8f42a" />
-<img width="1224" height="682" alt="Screenshot 2025-08-06 114400" src="https://github.com/user-attachments/assets/684e52f1-2128-49d7-a434-961779468add" />
 
 
 
